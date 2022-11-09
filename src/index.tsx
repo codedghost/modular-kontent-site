@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 
 const deliveryClient = createDeliveryClient({
-  projectId: '8ca55ed2-9550-01a6-f9c9-fdc458538e74',
+  projectId: '<INSERT-PROJECT-ID-HERE>',
   linkedItemsReferenceHandler: 'map'
 });
 
